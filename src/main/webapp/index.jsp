@@ -7,6 +7,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE IMPLEMENTED CI/CD</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">Welcome to Devops class, this is my first deployment in jenkins </h1>
+	<h1 style="color: blue; font-size: 40px;" align="center">Code successfully deployed</h1>
 	
 	
 	
